@@ -1,0 +1,38 @@
+.link{
+   border-radius: 25px ;
+  border: 3px solid rgb(129, 123, 123);
+  margin: auto;
+  text-align: center;
+  width: 450px ;
+  background-color: rgb(151, 137, 137);
+}
+
+img{
+    border-radius: 50%;
+   margin: auto;
+   display: block;
+   border: 2px solid rgb(252, 252, 252);
+}
+.Guia{
+    
+    border-radius: 25px ;
+    border: 3px solid rgb(129, 123, 123);
+    margin: auto;
+    text-align: center;
+    width: 450px ; 
+    background-color: rgb(151, 137, 137);
+    
+   
+}
+.Guia:hover{
+    background-color: #000000;
+}
+.link:hover{
+    background-color: #000000;
+}
+p{
+    color: white;
+    text-align: center;
+}
+
+body{background-color:rgb(22, 21, 21) ;}
